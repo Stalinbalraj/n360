@@ -1,2 +1,2 @@
 # n360
-A app which will have some cool stuff
+A app which will have some cool stuffs.
